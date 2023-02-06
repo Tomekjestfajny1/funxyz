@@ -12,3 +12,14 @@
   position: relative;
   overflow: hidden;
 }
+.logo{
+  width: 100px;
+  cursor: pointer;
+}
+.navbar{
+  idth: 85%;
+  height: 15%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-beetwen;
